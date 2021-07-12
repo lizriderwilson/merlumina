@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @merlumina
 - 👀 I’m interested in full-stack web development and indie game development
-- 🌱 I’m currently learning Ruby, SQL
+- 🌱 I’m currently learning Ruby, SQL, JavaScript
 - 💞️ I’m looking to collaborate on small indie game projects!
-- 📫 Twitter: @m3rlumina
 
 <!---
 merlumina/merlumina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
